@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "main": "base.js",
     "dependencies": {
-        "aralejs/class": "master",
-        "aralejs/events": "master"
+        "gazira/class": "master",
+        "gazira/events": "master"
     }
 }
