@@ -2,8 +2,8 @@
 // ---------
 // Base 是一个基础类，提供 Class、Events、Attrs 和 Aspect 支持。
 
-var Class = require('aralejs/class@master:/class.js');
-var Events = require('aralejs/events@master:/events.js');
+var Class = require('class');
+var Events = require('events');
 var Aspect = require('./aspect');
 var Attribute = require('./attribute');
 
