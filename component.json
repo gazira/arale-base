@@ -1,5 +1,5 @@
 {
-    "name": "aralejs-base",
+    "name": "arale-base",
     "version": "0.0.1",
     "main": "base.js",
     "dependencies": {
