@@ -1,9 +1,9 @@
 {
     "name": "arale-base",
-    "version": "0.0.1",
+    "version": "1.2.0",
     "main": "base.js",
     "dependencies": {
-        "gazira/class": "master",
-        "gazira/events": "master"
+        "gazira/arale-class": "1.2.0",
+        "gazira/arale-events": "1.2.0"
     }
 }
